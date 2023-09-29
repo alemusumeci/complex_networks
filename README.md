@@ -1,5 +1,5 @@
 # Actor Collaboration Network
-In this project we use the tools offered by network analysis to explore the collaboration patterns in the movie industries all over the world. 
+In this project we use the tools offered by network analysis to explore the collaboration patterns between film actors from all over the world. 
 This repository contains:
 1. The code collaboration_network.ipynb where we have constructed the network, compute the centrality measure, study its community/clustering structure and the assortative mixing.
 2. The code network_perturb.ipynb where we study the tolerance of the network under attack/error.
